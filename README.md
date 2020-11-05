@@ -1,2 +1,1 @@
-# bioinformatics-final
-final project for bioinformatics
+# Bioinformatics Final Project
