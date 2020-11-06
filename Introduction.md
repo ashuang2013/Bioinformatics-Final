@@ -7,15 +7,15 @@ The Human Genome Project (1990-2003) was a international, collaborative research
 The sequencing of the human genome also brings with it its own privacy ramifications. The most important and thereby solved problem is protecting the data of the participants in studies. This is accomplished by de-identifying participant data when releasing results. Alongside other acts like GINA (while outdated), participants can rest easy in their anonymity when participating in studies. This is trust of confidentiality is important in furthering research. You can read more about privacy [here](https://www.genome.gov/about-genomics/policy-issues/Privacy).
 
 ### Human Microbiome Project
-
+According to the Human Microbiome Project (HMP), "The overall mission of the HMP was to generate resources to facilitate characterization of the human microbiota to further our understanding of how the microbiome impacts human health and disease^1."
 ### Explore
 Let's explore this topic further with a [scenario](https://ashuang2013.github.io/bioinformatics-final/SetUpScenario).
 
 __*References:*__ <br/>
 #### HGP
-* Human Genome Project Home:     https://www.genome.gov/human-genome-project <br/>
-* Human Genome Project Overview: https://www.genome.gov/human-genome-project/What <br/>
-* Human Genome Project Results:  https://www.genome.gov/human-genome-project/results <br/>
+1. Human Genome Project Home:     https://www.genome.gov/human-genome-project <br/>
+2. Human Genome Project Overview: https://www.genome.gov/human-genome-project/What <br/>
+3. Human Genome Project Results:  https://www.genome.gov/human-genome-project/results <br/>
 
 #### HMP
-* Human Microbiome Project Home: https://www.hmpdacc.org/
+1. Human Microbiome Project Home: https://www.hmpdacc.org/
