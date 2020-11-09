@@ -11,7 +11,7 @@ According to the Human Microbiome Project (HMP), "The overall mission of the HMP
 
 In the study Identifying Personal Microbiomes using Metagenomic Codes, "the gut habitat (as represented by stool) produced the most stable codes across all feature types, with 86% TPs among marker-based codes<sup>2</sup>."
 ### Explore
-Let's explore this topic further with a [scenario](https://ashuang2013.github.io/bioinformatics-final/SetUpScenario).
+Let's explore this topic further with a [scenario](https://ashuang2013.github.io/Bioinformatics-Final/SetUpScenario).
 
 ### References
 #### HGP
