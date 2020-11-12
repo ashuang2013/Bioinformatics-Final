@@ -15,4 +15,4 @@ You were already in the car and driving down the highway towards your lab before
 When you arrive on the scene, police cars twinkling red and blue surround the lab along with investigators. Dr. Kim sees you and walks towards you. It seems he knows everything already. He informs you that you are fired and that most likely your career is over. <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;"Never dismiss a privacy threat as trivial," he said as he walked away. <br/>
 
-[Return]((https://ashuang2013.github.io/Bioinformatics-Final/SetUpScenario)
+[Return](https://ashuang2013.github.io/Bioinformatics-Final/SetUpScenario)
