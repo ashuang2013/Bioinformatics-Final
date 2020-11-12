@@ -11,7 +11,7 @@ ____________________________________________________ <br/>
 You will find the attached information below. <br/>
 You have until 7PM. <br/><br/>
 
-L <br/><br/>
+L <br/>
 ____________________________________________________ <br/>
 
 What should you do? <br/>
