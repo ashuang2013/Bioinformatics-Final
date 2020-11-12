@@ -6,7 +6,7 @@ You are a proud graduate of MIT's class of 2020 with a BS in Bioinformatics. You
 A second after the phone call ended, an email pops up in your inbox. <br/>
 
 ____________________________________________________ <br/>
-xxx@email.com <br/>
+-@email.com <br/>
 to me <br/>
 
 You will find the attached information below. <br/>
