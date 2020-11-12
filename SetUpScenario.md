@@ -7,10 +7,12 @@ A second after the phone call ended, an email pops up in your inbox. <br/><br/>
 xxx@email.com <br/>
 to me <br/><br/>
 
+____________________________________________________ <br/>
 You will find the attached information below. <br/>
 You have until 7PM. <br/><br/>
 
 L <br/><br/>
+____________________________________________________ <br/>
 
 What should you do? <br/>
 [Tell Dr. Kim when he comes back from lunch break](https://ashuang2013.github.io/Bioinformatics-Final/Scenario1) <br/>
