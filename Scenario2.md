@@ -9,3 +9,6 @@ Currently, this matter is being investigated by the police and has been reported
 &nbsp;&nbsp;&nbsp;&nbsp;"We had no knowledge of this situation. I am just as confused as the public in how and why we were targeted by the notorious L as a small lab. I hope that the police investigation can clear up any misunderstandings in this situation." <br/>
 
 Right now, the participants in the study are extrememly upset and panicked. This is a big bombshell to the participants and their families. Back to you Jim. <br/>
+
+You were already in the car and driving down the highway towards your lab before the news caster was even finished. You don't remember much about the drive, only that it seemed to last for an eternity. When you arrive on the scene, police cars twinkling red and blue surround the lab along with investigators. Dr. Kim sees you and walks towards you. It seems he knows everything already. He informs you that you are fired and that most likely your career is over. <br/>
+"Never dismiss a privacy threat as trivial," he said as he walked away. 
