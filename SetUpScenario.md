@@ -12,8 +12,7 @@ to me <br/>
 You will find the attached information below. <br/>
 You have until 7PM. <br/><br/>
 
-![L](https://raw.githubusercontent.com/ashuang2013/Bioinformatics-Final/main/L.jpeg) <br/>
-Source: 1 <br/>
+![L](https://raw.githubusercontent.com/ashuang2013/Bioinformatics-Final/main/L.jpeg)<sup>1</sup> <br/>
 ____________________________________________________ <br/><br/>
 
 What should you do? <br/>
