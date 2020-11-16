@@ -12,7 +12,7 @@ Right now, the participants in the study are extrememly upset and panicked. This
 
 You were already in the car and driving down the highway towards your lab before the news caster was even finished. You don't remember much about the drive, only that it seemed to last for an eternity. <br/>
 
-![Police Siren](https://raw.githubusercontent.com/ashuang2013/Bioinformatics-Final/main/Police%20Siren.jpg) <br/>
+![Police Siren](https://raw.githubusercontent.com/ashuang2013/Bioinformatics-Final/main/Police%20Siren.jpg)<sup>1</sup> <br/>
 When you arrive on the scene, police cars twinkling red and blue surround the lab along with investigators. Dr. Kim sees you and walks towards you. It seems he knows everything already. He informs you that you are fired and that most likely your career is over. <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;"Never dismiss a privacy threat as trivial," he said as he walked away. <br/>
 
