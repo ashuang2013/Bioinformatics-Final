@@ -6,5 +6,5 @@ Dr. Kim comes back from his lunch break and you immediately tell him about your 
 
 You are astounded that you never thought of the potential privacy ramifications that could come from just these two seemingly unrelated pieces of information. <br/>
 
-You look through your notes: You noticed that there were hacking entry points on the [gut](https://ashuang2013.github.io/Bioinformatics-Final/Scenario3) data inside the database. <br/>
-You look through your notes: You noticed that there were hacking entry points on the [skin](https://ashuang2013.github.io/Bioinformatics-Final/Scenario4) data inside the database.
+You look through your notes: You noticed that there were hacking entry points on the [gut data inside the database](https://ashuang2013.github.io/Bioinformatics-Final/Scenario3). <br/>
+You look through your notes: You noticed that there were hacking entry points on the [skin data inside the database](https://ashuang2013.github.io/Bioinformatics-Final/Scenario4).
