@@ -2,7 +2,7 @@
 
 ## A History
 ![https://blog.nebula.org/fr/helix-dna-review/](https://raw.githubusercontent.com/ashuang2013/Bioinformatics-Final/main/DNA.jpg) <br/>
-Source: https://blog.nebula.org/fr/helix-dna-review/ <br/>
+Source: 10 <br/>
 
 ### Human Genome Project
 The Human Genome Project (1990-2003) was a international, collaborative research program that aimed to sequence the entire human genome<sup>1</sup>. The results squenced about 20,500 human genes and about 3 billion DNA nucleotides (about 99% of the human genome) to an accuracy of 99.99%<sup>1</sup>. The Human Genome project also identified more than 3 million human genetic variations called single nucleotide polymorphisms (abbreviated to SNPs)<sup>1</sup>. <br/>
@@ -35,3 +35,6 @@ Let's explore this topic further with a [scenario](https://ashuang2013.github.io
 7. GINA: https://www.genome.gov/about-genomics/policy-issues/Genetic-Discrimination <br/>
 8. Additional Privacy Information: https://www.genome.gov/about-genomics/policy-issues/Privacy
 9. Twins: https://www.wired.com/2010/03/keyboard-microbiome/
+
+#### Pictures
+10. https://blog.nebula.org/fr/helix-dna-review/
