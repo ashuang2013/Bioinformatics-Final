@@ -12,9 +12,13 @@ to me <br/>
 You will find the attached information below. <br/>
 You have until 7PM. <br/><br/>
 
-L <br/>
+![L](https://raw.githubusercontent.com/ashuang2013/Bioinformatics-Final/main/L.jpeg) <br/>
+Source: 1 <br/>
 ____________________________________________________ <br/><br/>
 
 What should you do? <br/>
 [Tell Dr. Kim when he comes back from lunch break](https://ashuang2013.github.io/Bioinformatics-Final/Scenario1) <br/>
 [Ignore L,  what is he going to do with de-identified participant information plus microbiome data? He's obviously bluffing](https://ashuang2013.github.io/Bioinformatics-Final/Scenario2)<br/>
+
+####Picture
+1. https://deathnote.fandom.com/wiki/L_(alias)
